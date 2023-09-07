@@ -1,17 +1,16 @@
-# Nome do meu projeto
+# Clube do Livro
 
-Rápida descrição do objetivo de fazer esse projeto
+Trabalho realizado no Microsoft Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Clube do Livro        | **Titulo do meu projeto**
+| :label: Power BI
+| :rocket: URL         | [v](https://app.powerbi.com/view?r=eyJrIjoiNzEyODJiNWQtY2Q1Ny00ZmMwLWI1NjUtOTQxMzg3YjZjZWUwIiwidCI6IjYzYzdiZTRlLWNkNTgtNDM1OS04MzBiLTUyNGE3NDE1YTRjMyJ9)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+
